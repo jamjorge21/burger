@@ -8,5 +8,4 @@ CREATE TABLE burgers (
 id INTEGER AUTO_INCREMENT PRIMARY KEY,
 burger_name varchar(255),
 devoured BOOLEAN
-);
-
+)
